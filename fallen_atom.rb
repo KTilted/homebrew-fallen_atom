@@ -1,7 +1,7 @@
 class FallenAtom < Formula
   desc "Minimalistic puzzle game"
   homepage "https://github.com/ktilted/fallen_atom"
-  url "https://github.com/ktilted/fallen_atom/archive/v1.0.0.tar.gz"
+  url "https://github.com/ktilted/fallen_atom/releases/download/1.0.0/fallen_atom-1.0.0.tar.gz"
   sha256 "4130045f1b8982ba051c711724e26ef3bfcf6d54134b625ee3bcfa8080b6f318"
 
   depends_on "python"
