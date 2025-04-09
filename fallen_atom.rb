@@ -2,7 +2,7 @@ class FallenAtom < Formula
   desc "Minimalistic puzzle game"
   homepage "https://github.com/ktilted/fallen_atom"
   url "https://github.com/ktilted/fallen_atom/releases/download/1.0.0/fallen_atom-1.0.0.tar.gz"
-  sha256 "456a23eaebafd4f4bb94cee13624f023b3cb8b848a4f391fe67528b63fb184a8"
+  sha256 "4130045f1b8982ba051c711724e26ef3bfcf6d54134b625ee3bcfa8080b6f318"
 
   depends_on "python"
   depends_on "sdl2"
